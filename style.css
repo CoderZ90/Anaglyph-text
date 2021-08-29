@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins";
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f4f6f7;
+}
+/* Now you can modify it thankyou :) */
+h2 {
+  font-size: 52px;
+  font-weight: 600;
+  color: #222;
+}
